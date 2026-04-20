@@ -62,7 +62,7 @@ A small HUD should appear in the top-right with the Glass sound. Click anywhere 
 
 ## Configuration
 
-Everything is controlled via environment variables set in the hook command string. None are required — defaults match the screenshot.
+Everything is controlled via environment variables set in the hook command string. None are required — sensible defaults out of the box.
 
 | Variable | Values | Default | Effect |
 |---|---|---|---|
