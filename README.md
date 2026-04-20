@@ -1,5 +1,7 @@
 # claude-code-permission-hud
 
+**English** · [中文](README.zh.md)
+
 A tiny macOS HUD that pops up **only when Claude Code actually needs your approval** — so you stop missing permission prompts while you're in another window.
 
 ## Why
