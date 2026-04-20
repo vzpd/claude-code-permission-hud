@@ -2,8 +2,6 @@
 
 A tiny macOS HUD that pops up **only when Claude Code actually needs your approval** — so you stop missing permission prompts while you're in another window.
 
-![placeholder — add a screenshot or GIF to docs/screenshot.png](docs/screenshot.png)
-
 ## Why
 
 Claude Code's built-in permission prompts live inside the terminal. If you tab away while Claude is working, you won't notice it's waiting for you — and Claude sits idle until you come back.
